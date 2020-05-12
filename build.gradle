@@ -29,4 +29,4 @@ javafx {
     modules = ['javafx.controls', 'javafx.base', 'javafx.fxml', 'javafx.graphics']
 }
 
-mainClassName = "fun.oook.cw.Launch"
+mainClassName = "fun.oook.cw.Main"
